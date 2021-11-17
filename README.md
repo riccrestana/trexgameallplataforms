@@ -1,0 +1,2 @@
+# trexgameallplataforms
+joguinho do trex
